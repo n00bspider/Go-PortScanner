@@ -72,8 +72,6 @@ Workers finish in arbitrary order depending on which ports respond fastest. Resu
 
 ## Running It
 
-Pre-built binaries are in the `Builds/` folder.
-
 **Linux / macOS**
 ```bash
 chmod +x ./Builds/portscanner-linux
